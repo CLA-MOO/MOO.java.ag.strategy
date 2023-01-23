@@ -1,0 +1,12 @@
+./miPrincipal/Principal.java
+./productos/CatProductos.java
+./productos/Producto.java
+./descuento/SinDescuento.java
+./descuento/EmbutidosLacteos.java
+./descuento/MenonitaDescuento.java
+./descuento/FrutaDescuento.java
+./descuento/IDesctoStrategy.java
+./descuento/AdultoMayor.java
+./venta/LineaDeDetalle.java
+./venta/Venta.java
+./miTest/AppTest.java
