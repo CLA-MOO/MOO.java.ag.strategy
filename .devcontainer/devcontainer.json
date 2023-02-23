@@ -1,6 +1,10 @@
 {
-    "extensions" : [
-      "GitHub.copilot",
-      "vscjava.vscode-java-pack"
-  ]
-  }
+	"customizations": {
+		"vscode": {
+			"extensions": [
+				"GitHub.copilot",
+				"vscjava.vscode-java-pack"
+			]
+		}
+	}
+}
